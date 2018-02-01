@@ -6,3 +6,5 @@ Hi changes for 2 merge
 
 cnflict merge change 1
 
+Change for blue branch...$
+
