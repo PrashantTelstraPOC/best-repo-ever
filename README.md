@@ -11,8 +11,4 @@ Change for blue branch..
 
 Change for blue branch...$
 
-<<<<<<< HEAD
-..Branch blue..
-=======
-
->>>>>>> origin/master
+TTTTTTTTTTTTTTTTTTTTTTTTTTtttttttttttt
