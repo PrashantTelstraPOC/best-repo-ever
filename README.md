@@ -8,3 +8,4 @@ cnflict merge change 1
 
 Change for blue branch...$
 
+..Branch blue..
